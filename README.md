@@ -1,3 +1,4 @@
-# Java Music player 
-### Swing Window desktop for managing playlists
-uses Swing library
+# Java Music player For Linux
+Java music player using Swing and a few other libarys.
+GUI set up as a miniature desktop enviroment using a JDesktopPanel
+
